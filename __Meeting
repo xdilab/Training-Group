@@ -4,4 +4,6 @@
   Notes:
     * Run the model "https://www.tensorflow.org/tutorials/images/transfer_learning"
 		* change the loaded model to something else, 
-    * Pay a little with learning rate 
+    * Pay a little with the learning rate 
+    * Please upload your note in different file for each chapter, and if you have found any interesting resources in a list
+
