@@ -1,0 +1,26 @@
+Neural Networks - Learn to predict outcomes based on input data
+Ex: predicting house price based on 
+features like size + number of bedrooms
+Neuron -> Takes input and outputs prediction 
+Large neural networks -> Created by stacking multiple neurons together 
+Each neuron can take all input features allowing for network to learn intricate relationships 
+Rectified Linear Unit (RLU) - Starts at zero instead of going negative
+
+Train neural network by providing dataset with input output pairs -> network learns to map inputs to outputs
+
+Standard Neural Networks -> best for structured data
+Convolutional neural networks -> best for image data
+Recurrent neural networks - > for sequence data like audio and language
+Additionally there are hybrid architectures 
+
+￼
+
+Structured vs. Unstructured Data
+* Structured data consists of well-defined features, like databases used in housing price prediction
+* unstructured data includes images, audio, and text, which are more challenging for computers to interpret.
+
+Size of neural networks and scale are important
+* Larger neural networks can achieve higher performance levels, especially when trained on substantial amounts of labeled data.
+MORE DATA IS ALMOST ALWAYS BENEFCIAL
+
+
