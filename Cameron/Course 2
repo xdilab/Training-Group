@@ -1,0 +1,39 @@
+More efficient to process training examples at once instead of a for loop
+Computation in 2 steps -> 
+Forward propagation - Feeding input data into neural network
+Backward propagation - Calculating error between predicted and actual output -> adjusting weights and biases for more accurate results
+
+Images represented as Matrices -> RGB
+PIXEL VALUES CONVERTED INTO FEATURE VECTOR
+Binary Classification - > Categorizes data as either 0 or 1
+
+Logistic Regression - learning algorithm used for binary classification problems, where the output labels Y are either 0 or 1
+
+w" represents the weights (coefficients) assigned to each feature in the input data, while "b" represents the bias term
+
+⁃ Y hat is the output of the model, which is the sigmoid of W transposed X I plus B
+
+Gradient descent - 
+
+⁃ Gradient Descent is a method used to update parameters in order to minimize a cost function. 
+
+⁃ This process of updating the parameter (w) will move it towards the global minimum of the cost function. 
+Neural networks - 
+Input layer -> inputs to network
+Hidden layer -> Values for training data can’t be observed 
+Final layer -> Generates predicted value
+
+⁃ Neural networks are composed of multiple hidden layers, each of which is composed of multiple nodes
+Different activation functions
+
+⁃ Sigmoid activation function is the most common, but other choices can work better
+
+⁃ Tanh activation function is almost always better than sigmoid, as it goes between -1 and 1 and has a zero mean
+
+⁃ Rectified linear unit (ReLU) is another popular choice, with a = max(0,z) and a derivative of 1 when z is positive and 0 when z is negative
+
+    - Sigmoid: should only be used for the output layer if doing binomial classification
+
+⁃ A deep neural network is a neural network with two or more hidden layers, whereas logistic regression is a very "shallow" model
+
+⁃ Parameters are the weights and biases of a model, while hyperparameters are the settings that control the learning algorithm
