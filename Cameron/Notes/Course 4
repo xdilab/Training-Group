@@ -1,1 +1,30 @@
+Object localization - looking for one item 
+Object detection - detecting multiple items and classifying them
+Yolo - you only look once 
+Utilizes a single pass
+Image divided into a grid and each cell predicts a bounding box
+Takes bounding box and determines class
 
+Anchor boxes - predefined bounding boxes assigned to each cell
+Boxes are shifted and adjusted to detect objects for classification 
+
+Non max suppression - reduces redundant boxes. Takes higher confidence level predictions
+Intersection over union - if greater than specified value the box is removed 
+
+Skip connections - connects output of one layer to input of another layer
+
+Face detection - detects faces but doesn’t necessarily them
+Face recognition - recognizes faces and connects them to know identities 
+
+Converts facial features into high dimensional vectors, if values are aligned to a certain threshold the faces are the same.
+
+One shot learning - taking very small samples of data and training models to detect or classify based on these samples
+
+Siamese networks - measure how similar two inputs are
+takes two identical cnn’s
+Converts images into feature vectors
+Measures how close two vectors are, if below a certain threshold the faces match.
+
+Semantic segmentation - classifies all the pixels regarding each object
+
+U net - Encoder uses cnn’s to downscale images and extract features, deep representations 
