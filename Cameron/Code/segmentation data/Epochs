@@ -1,0 +1,89 @@
+***EPOCH*** 1/30
+25/25 ━━━━━━━━━━━━━━━━━━━━ 1187s 47s/step - accuracy: 0.9963 - dice_coefficient: 0.0537 - iou: 0.0276 - loss: 0.0166 - val_accuracy: 0.9963 - val_dice_coefficient: 0.0213 - val_iou: 0.0108 - val_loss: 0.0732
+
+***EPOCH*** 2/30
+25/25 ━━━━━━━━━━━━━━━━━━━━ 1221s 48s/step - accuracy: 0.9964 - dice_coefficient: 0.0841 - iou: 0.0439 - loss: 0.0156 - val_accuracy: 0.9963 - val_dice_coefficient: 0.0212 - val_iou: 0.0107 - val_loss: 0.0570
+
+***EPOCH*** 3/30
+25/25 ━━━━━━━━━━━━━━━━━━━━ 1202s 47s/step - accuracy: 0.9963 - dice_coefficient: 0.0928 - iou: 0.0487 - loss: 0.0148 - val_accuracy: 0.9963 - val_dice_coefficient: 0.0200 - val_iou: 0.0101 - val_loss: 0.0313
+
+***EPOCH*** 4/30
+25/25 ━━━━━━━━━━━━━━━━━━━━ 1209s 46s/step - accuracy: 0.9963 - dice_coefficient: 0.1112 - iou: 0.0589 - loss: 0.0142 - val_accuracy: 0.9963 - val_dice_coefficient: 0.0248 - val_iou: 0.0126 - val_loss: 0.0274
+
+***EPOCH*** 5/30
+25/25 ━━━━━━━━━━━━━━━━━━━━ 1163s 47s/step - accuracy: 0.9962 - dice_coefficient: 0.1284 - iou: 0.0686 - loss: 0.0139 - val_accuracy: 0.9963 - val_dice_coefficient: 0.0224 - val_iou: 0.0113 - val_loss: 0.0236
+
+***EPOCH*** 6/30
+25/25 ━━━━━━━━━━━━━━━━━━━━ 1221s 47s/step - accuracy: 0.9963 - dice_coefficient: 0.1432 - iou: 0.0772 - loss: 0.0127 - val_accuracy: 0.9963 - val_dice_coefficient: 0.0267 - val_iou: 0.0135 - val_loss: 0.0216
+
+***EPOCH*** 7/30
+25/25 ━━━━━━━━━━━━━━━━━━━━ 1156s 46s/step - accuracy: 0.9963 - dice_coefficient: 0.1498 - iou: 0.0810 - loss: 0.0126 - val_accuracy: 0.9963 - val_dice_coefficient: 0.0495 - val_iou: 0.0254 - val_loss: 0.0198
+
+***EPOCH*** 8/30
+25/25 ━━━━━━━━━━━━━━━━━━━━ 1151s 46s/step - accuracy: 0.9964 - dice_coefficient: 0.1604 - iou: 0.0872 - loss: 0.0116 - val_accuracy: 0.9963 - val_dice_coefficient: 0.0898 - val_iou: 0.0470 - val_loss: 0.0167
+
+***EPOCH*** 9/30
+25/25 ━━━━━━━━━━━━━━━━━━━━ 1159s 46s/step - accuracy: 0.9962 - dice_coefficient: 0.1682 - iou: 0.0918 - loss: 0.0121 - val_accuracy: 0.9963 - val_dice_coefficient: 0.0969 - val_iou: 0.0510 - val_loss: 0.0164
+
+***EPOCH*** 10/30
+25/25 ━━━━━━━━━━━━━━━━━━━━ 1150s 46s/step - accuracy: 0.9963 - dice_coefficient: 0.1747 - iou: 0.0957 - loss: 0.0118 - val_accuracy: 0.9963 - val_dice_coefficient: 0.0934 - val_iou: 0.0490 - val_loss: 0.0170
+
+***EPOCH*** 11/30
+25/25 ━━━━━━━━━━━━━━━━━━━━ 1168s 46s/step - accuracy: 0.9961 - dice_coefficient: 0.1714 - iou: 0.0938 - loss: 0.0123 - val_accuracy: 0.9963 - val_dice_coefficient: 0.1105 - val_iou: 0.0586 - val_loss: 0.0159
+
+***EPOCH*** 12/30
+25/25 ━━━━━━━━━━━━━━━━━━━━ 1158s 46s/step - accuracy: 0.9964 - dice_coefficient: 0.1757 - iou: 0.0964 - loss: 0.0112 - val_accuracy: 0.9963 - val_dice_coefficient: 0.1084 - val_iou: 0.0574 - val_loss: 0.0168
+
+***EPOCH*** 13/30
+25/25 ━━━━━━━━━━━━━━━━━━━━ 1160s 46s/step - accuracy: 0.9962 - dice_coefficient: 0.1953 - iou: 0.1083 - loss: 0.0110 - val_accuracy: 0.9963 - val_dice_coefficient: 0.1456 - val_iou: 0.0788 - val_loss: 0.0143
+
+***EPOCH*** 14/30
+25/25 ━━━━━━━━━━━━━━━━━━━━ 1159s 46s/step - accuracy: 0.9962 - dice_coefficient: 0.1963 - iou: 0.1089 - loss: 0.0110 - val_accuracy: 0.9963 - val_dice_coefficient: 0.1218 - val_iou: 0.0650 - val_loss: 0.0179
+
+***EPOCH*** 15/30
+25/25 ━━━━━━━━━━━━━━━━━━━━ 1145s 46s/step - accuracy: 0.9963 - dice_coefficient: 0.1963 - iou: 0.1089 - loss: 0.0106 - val_accuracy: 0.9963 - val_dice_coefficient: 0.1154 - val_iou: 0.0614 - val_loss: 0.0172
+
+***EPOCH*** 16/30
+25/25 ━━━━━━━━━━━━━━━━━━━━ 1163s 46s/step - accuracy: 0.9964 - dice_coefficient: 0.2032 - iou: 0.1131 - loss: 0.0103 - val_accuracy: 0.9963 - val_dice_coefficient: 0.1390 - val_iou: 0.0749 - val_loss: 0.0159
+
+***EPOCH*** 17/30
+25/25 ━━━━━━━━━━━━━━━━━━━━ 1147s 46s/step - accuracy: 0.9963 - dice_coefficient: 0.2138 - iou: 0.1197 - loss: 0.0100 - val_accuracy: 0.9963 - val_dice_coefficient: 0.1908 - val_iou: 0.1055 - val_loss: 0.0134
+
+***EPOCH*** 18/30
+25/25 ━━━━━━━━━━━━━━━━━━━━ 1160s 46s/step - accuracy: 0.9963 - dice_coefficient: 0.2078 - iou: 0.1161 - loss: 0.0105 - val_accuracy: 0.9963 - val_dice_coefficient: 0.1348 - val_iou: 0.0724 - val_loss: 0.0190
+
+***EPOCH*** 19/30
+25/25 ━━━━━━━━━━━━━━━━━━━━ 1145s 46s/step - accuracy: 0.9964 - dice_coefficient: 0.2110 - iou: 0.1180 - loss: 0.0099 - val_accuracy: 0.9963 - val_dice_coefficient: 0.1904 - val_iou: 0.1053 - val_loss: 0.0135
+
+***EPOCH*** 20/30
+25/25 ━━━━━━━━━━━━━━━━━━━━ 1159s 46s/step - accuracy: 0.9964 - dice_coefficient: 0.2182 - iou: 0.1225 - loss: 0.0097 - val_accuracy: 0.9963 - val_dice_coefficient: 0.2111 - val_iou: 0.1180 - val_loss: 0.0134
+
+***EPOCH*** 21/30
+25/25 ━━━━━━━━━━━━━━━━━━━━ 1165s 46s/step - accuracy: 0.9964 - dice_coefficient: 0.2319 - iou: 0.1312 - loss: 0.0094 - val_accuracy: 0.9963 - val_dice_coefficient: 0.1992 - val_iou: 0.1107 - val_loss: 0.0132
+
+***EPOCH*** 22/30
+25/25 ━━━━━━━━━━━━━━━━━━━━ 1161s 46s/step - accuracy: 0.9962 - dice_coefficient: 0.2325 - iou: 0.1316 - loss: 0.0098 - val_accuracy: 0.9963 - val_dice_coefficient: 0.1892 - val_iou: 0.1045 - val_loss: 0.0137
+
+***EPOCH*** 23/30
+25/25 ━━━━━━━━━━━━━━━━━━━━ 1155s 46s/step - accuracy: 0.9964 - dice_coefficient: 0.2329 - iou: 0.1319 - loss: 0.0094 - val_accuracy: 0.9963 - val_dice_coefficient: 0.1802 - val_iou: 0.0991 - val_loss: 0.0169
+
+***EPOCH*** 24/30
+25/25 ━━━━━━━━━━━━━━━━━━━━ 1169s 46s/step - accuracy: 0.9963 - dice_coefficient: 0.2404 - iou: 0.1367 - loss: 0.0093 - val_accuracy: 0.9963 - val_dice_coefficient: 0.2085 - val_iou: 0.1164 - val_loss: 0.0157
+
+***EPOCH*** 25/30
+25/25 ━━━━━━━━━━━━━━━━━━━━ 1165s 46s/step - accuracy: 0.9963 - dice_coefficient: 0.2593 - iou: 0.1490 - loss: 0.0091 - val_accuracy: 0.9963 - val_dice_coefficient: 0.2089 - val_iou: 0.1166 - val_loss: 0.0129
+
+***EPOCH*** 26/30
+25/25 ━━━━━━━━━━━━━━━━━━━━ 1145s 46s/step - accuracy: 0.9963 - dice_coefficient: 0.2575 - iou: 0.1478 - loss: 0.0091 - val_accuracy: 0.9963 - val_dice_coefficient: 0.2058 - val_iou: 0.1148 - val_loss: 0.0150
+
+***EPOCH*** 27/30
+25/25 ━━━━━━━━━━━━━━━━━━━━ 1153s 46s/step - accuracy: 0.9964 - dice_coefficient: 0.2655 - iou: 0.1531 - loss: 0.0087 - val_accuracy: 0.9963 - val_dice_coefficient: 0.2240 - val_iou: 0.1261 - val_loss: 0.0143
+
+***EPOCH*** 28/30
+25/25 ━━━━━━━━━━━━━━━━━━━━ 1169s 46s/step - accuracy: 0.9964 - dice_coefficient: 0.2598 - iou: 0.1494 - loss: 0.0089 - val_accuracy: 0.9963 - val_dice_coefficient: 0.2244 - val_iou: 0.1264 - val_loss: 0.0157
+
+***EPOCH*** 29/30
+25/25 ━━━━━━━━━━━━━━━━━━━━ 1162s 46s/step - accuracy: 0.9964 - dice_coefficient: 0.2695 - iou: 0.1558 - loss: 0.0086 - val_accuracy: 0.9963 - val_dice_coefficient: 0.2045 - val_iou: 0.1139 - val_loss: 0.0159
+
+***EPOCH*** 30/30
+25/25 ━━━━━━━━━━━━━━━━━━━━ 1179s 47s/step - accuracy: 0.9963 - dice_coefficient: 0.2759 - iou: 0.1601 - loss: 0.0087 - val_accuracy: 0.9963 - val_dice_coefficient: 0.2139 - val_iou: 0.1198 - val_loss: 0.0185
