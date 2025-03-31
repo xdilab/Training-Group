@@ -1,1 +1,23 @@
+https://pmc.ncbi.nlm.nih.gov/articles/PMC10694355 
+Achieved 94.36 dice score and 91.83 IOU score
+Utilized DeepLabv3 architecture, RegNet as image encoder, used Dice loss for loss function
+“DeepLabv3+ (19) requires only fusion of the bottom- and top-level features and is significantly less redundant than conventional cross-layer connected segmentation algorithms. Therefore, a combination of RegNet and DeepLabv3+ can be expected to yield a less redundant structure and superior network-structure parameters than manually designed networks.”
+
+
+
+ATTACHED PDF - Mateusz Buda , Ashirbani Saha , Maciej A. Mazurowski 
+Mean IOU Score - > 82%
+Utilized UNET architecture with ReLU activation 
+
+https://link.springer.com/article/10.1007/s10462-025-11151-8?
+Mean Dice Score -> 92.96% 
+Mean IOU Score -> 93.12%
+Model used -> https://github.com/DL-Segment/AS-WEC
+“In brain MRI tumor segmentation, AS-WEC delivers a clearer visual segmentation effect compared to the classical UNet++ network and recent models like PVT-Former”
+
+https://www.mdpi.com/2075-1729/13/7/1449?
+Uses ResNet50 and modified UNET architecture 
+IoU Score -> 0.91
+
+
 
